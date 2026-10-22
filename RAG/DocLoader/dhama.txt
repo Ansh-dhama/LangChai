@@ -1,0 +1,9 @@
+Ansh Dhama is learning Java backend development and Generative AI.
+
+His backend skills include Java, Spring Boot, Spring Security, SQL, Redis, Kafka, and database management systems. He practices data structures and algorithms regularly and is also learning object-oriented design, system design, and Java concurrency.
+
+Ansh has worked on projects such as a Java-based Redis clone and delivery backend services. The Redis clone demonstrates TCP networking, the RESP protocol, command processing, concurrent storage, expiration using TTL, persistence, replication, streams, and transactions.
+
+His current goal is to combine Java backend engineering with applied AI. He is learning Python, large language model fundamentals, LangChain, document loaders, text splitting, embeddings, vector databases, retrieval-augmented generation, agents, LangGraph, and Spring AI.
+
+In a basic LangChain pipeline, a document loader reads data from a file and converts it into Document objects. A text splitter divides large documents into smaller chunks. An embedding model converts those chunks into vectors, and a vector database stores them. When a user asks a question, a retriever finds the most relevant chunks and provides them to the language model as context.
